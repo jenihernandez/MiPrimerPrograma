@@ -9,8 +9,7 @@ namespace jeniferPOO
         {
            Console.ReadLine("ingrese el nombre");
 
-           Console.ReadLine("ingrese el apellido");
-¿¿¿¿¿¿¿¿¿¿
+           Console.ReadLine("ingrese el apellido"); 
            Console.ReadLine("ingrese la fecha de nacimiento");
 
 
